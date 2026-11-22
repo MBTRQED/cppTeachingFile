@@ -28,7 +28,7 @@ Python 界面：语块高亮、逐块计时、WPM 报告
 | [tutorial/00-roadmap.md](tutorial/00-roadmap.md) | 三周作战地图、每日任务、检查点 | ✅ |
 | [tutorial/01-hello.md](tutorial/01-hello.md) | Day 1：装 VS、写第一个程序、看懂编译错误 | ✅ |
 | [tutorial/02-read-file.md](tutorial/02-read-file.md) | Day 2：读文件、统计行数/字符数 | ✅ |
-| tutorial/03-tokenize.md | Day 3：分词（待更新） | ⏳ |
+| [tutorial/03-tokenize.md](tutorial/03-tokenize.md) | Day 3：分词、Token 结构体 | ✅ |
 
 ---
 
